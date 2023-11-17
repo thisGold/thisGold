@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thisGold
-- 👀 I’m interested in Java, Git, Spring, Hibernate
+- 👀 I’m interested in Java, Git, Spring, Hibernate, Maven
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java project
 - 📫 How to reach me: @thisGold
